@@ -1,0 +1,25 @@
+/*
+* File: member.component.css
+* Author: Juhász Zsolt
+* Copyright: 2022, Juhász Zsolt
+* Group: Szoft II/N
+* Date: 2022-04-02
+* Github: https://github.com/ZsoltJuhasz/member
+* Licenc: GNU GPL
+*/
+input.ng-invalid{
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+
+input.ng-valid{
+    border-style: solid;
+    border-width: 2px;
+    border-color: green;
+}
+
+small{
+    color:darkcyan;
+    font-size: 20px;
+}
